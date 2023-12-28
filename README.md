@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HughWaldock77
 - 👀 I’m interested in ... programming and cyber security
 - 🌱 I’m currently learning ...Harvard CS50  
-- 💞️ I’m looking to collaborate on ...HArvard CS50 issues
+- 💞️ I’m looking to collaborate on ...Harvard CS50 issues
 - 📫 How to reach me ...
 
 <!---
